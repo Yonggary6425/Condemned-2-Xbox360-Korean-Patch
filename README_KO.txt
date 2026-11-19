@@ -5,14 +5,14 @@ Condemned 2: Bloodshot (Xbox 360) 한글패치 v1.0
 [꼭 읽어 주세요]
 이 패치는 PS3판 「컨뎀드 2: 블러드샷」 한글패치를 Xbox 360판에 그대로 옮긴
 단순 포팅입니다. 새로 번역한 것이 아닙니다.
-번역문과 한글 폰트는 모두 PS3 한글패치 원 제작자의 작업물이며,
-원 제작자의 허락을 받아 Xbox 360판으로 옮겨 배포합니다.
+번역문과 한글 폰트는 모두 PS3 한글패치 원 제작자 SCPH1000님의 작업물이며,
+SCPH1000님의 허락을 받아 Xbox 360판으로 옮겨 배포합니다.
 
-- 원본 PS3 한글패치: https://cafe.naver.com/hansicgu/34493
+- 원본 PS3 한글패치 (SCPH1000님): https://cafe.naver.com/hansicgu/34493
 - 레트로디비 안내 페이지: https://retrodb.info/krpatch/2303
 
-번역에 대한 감사와 평가는 원 제작자께 돌려 주세요.
-360판 적용 문제(실행 오류, 깨짐 등)는 원 제작자가 아니라 아래 GitHub로 알려 주세요.
+번역에 대한 감사와 평가는 SCPH1000님께 돌려 주세요.
+360판 적용 문제(실행 오류, 깨짐 등)는 SCPH1000님이 아니라 아래 GitHub로 알려 주세요.
 https://github.com/Yonggary6425/Condemned-2-Xbox360-Korean-Patch
 
 [이식하면서 바꾼 것]
@@ -50,5 +50,5 @@ https://github.com/Yonggary6425/Condemned-2-Xbox360-Korean-Patch
 - 비공식·비상업적 팬 패치입니다.
 
 [크레딧]
-- 한국어 번역 및 한글 폰트: PS3 한글패치 원 제작자 (https://cafe.naver.com/hansicgu/34493)
+- 한국어 번역 및 한글 폰트: SCPH1000님 - PS3 한글패치 원 제작자 (https://cafe.naver.com/hansicgu/34493)
 - Xbox 360 이식(포팅): 용가리 (Yonggary6425)
